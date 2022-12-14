@@ -15,3 +15,16 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+
+// function tick(){
+//   const element = (
+//     <div>
+//       <h2>hello</h2>
+//       <h2>now: {new Date().toLocaleTimeString()}</h2>
+//     </div>
+//   );
+//   root.render(element);
+// }
+// setInterval(tick, 1000);
